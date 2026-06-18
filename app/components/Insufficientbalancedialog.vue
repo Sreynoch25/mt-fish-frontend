@@ -7,7 +7,7 @@
         <!-- Animated coin icon -->
         <div class="insufficient-icon-wrap">
           <div class="insufficient-icon-ring" />
-          <v-icon color="#fac775" size="38">mdi-circle-multiple-outline</v-icon>
+          <v-icon color="#fac775" size="38">mdi-circle-multiple-outline </v-icon>
         </div>
 
         <div class="insufficient-title">{{ t('balance.notEnoughCoinsTitle') }}</div>
